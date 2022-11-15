@@ -6,7 +6,6 @@ class Game():
         self.board = []
         self.result_O = '0'
         self.result_x = 'x'
-        #self.??? = ???
         
     
     def make_empty_board(self):
